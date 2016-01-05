@@ -1,0 +1,13 @@
+root
+bin
+daemon
+adm
+lp
+sync
+shutdown
+halt
+mail
+news
+admin
+test
+ishouldntexist
